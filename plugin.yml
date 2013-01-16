@@ -1,0 +1,22 @@
+name: powerEggs
+description: make your eggs more powerful
+author: DPOH-VAR
+main: me.dpohvar.powereggs.PowerEggs
+version: 0.1.0
+depend: [PowerNBT]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
